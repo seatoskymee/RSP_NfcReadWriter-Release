@@ -1,4 +1,4 @@
-﻿# RSP_NFC_Reader - Release
+# RSP NFC Read/Writer - Release
 
 Android NFC Tag Reader/Writer APK 배포 저장소
 
