@@ -12,8 +12,5 @@ Android NFC Tag Reader/Writer APK 배포 저장소
 - Tag 지원 현황 및 도움말
 - Background NFC 자동인식 옵션
 
-## 소스 코드
-https://github.com/seatoskymee/RSP_NfcReadWriter
-
 ## 연락처
 seatoskyme@naver.com
