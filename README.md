@@ -14,6 +14,3 @@ Android NFC Tag Reader/Writer APK 배포 저장소
 - NDEF 태그 감지 시 BLE OOB 자동 페어링
 - Tag 지원 현황 및 도움말
 - Background NFC 자동인식 옵션
-
-## 연락처
-seatoskyme@naver.com
